@@ -12,6 +12,8 @@ It is also important to have the "WikiCorpus" files converted to UTF-8.
 
 In the following links you can download the aforementioned resources.
 Multilingual Central Repository: http://adimen.si.ehu.es/web/MCR
+
 WikiCorpus: https://www.cs.upc.edu/~nlp/wikicorpus/
 
-Finally,
+And finally, the link to Hamsun's Amulet:
+https://github.com/JorViteri/Hamsun-s-amulet
