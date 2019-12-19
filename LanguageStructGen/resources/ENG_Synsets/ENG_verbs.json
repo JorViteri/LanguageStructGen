@@ -1,0 +1,283 @@
+{
+   "drop": {"drop": {
+      "Singular": "drops",
+      "Past": "dropped",
+      "Present": "drop"
+   }},
+   "summon": {"summon": {
+      "Singular": "summons",
+      "Past": "summoned",
+      "Present": "summon"
+   }},
+   "chant": {
+      "chant": {
+         "Singular": "chants",
+         "Past": "chanted",
+         "Present": "chant"
+      },
+      "tone": {
+         "Singular": "tones",
+         "Past": "toned",
+         "Present": "tone"
+      },
+      "intone": {
+         "Singular": "intones",
+         "Past": "intoned",
+         "Present": "intone"
+      }
+   },
+   "descend": {
+      "descend": {
+         "Singular": "descends",
+         "Past": "descended",
+         "Present": "descend"
+      },
+      "fall": {
+         "Singular": "falls",
+         "Past": "fell",
+         "Present": "fall"
+      },
+      "go_down": {
+         "Singular": "goes down",
+         "Past": "went down",
+         "Present": "go down"
+      },
+      "come_down": {
+         "Singular": "comes down",
+         "Past": "came down",
+         "Present": "come down"
+      }
+   },
+   "cut": {"cut": {
+      "Singular": "cuts",
+      "Past": "cut",
+      "Present": "cut"
+   }},
+   "be": {"be": {
+      "Singular": "is",
+      "Past": "was",
+      "Present": "be"
+   }},
+   "ascend": {
+      "ascend": {
+         "Singular": "ascends",
+         "Past": "ascended",
+         "Present": "ascend"
+      },
+      "go_up": {
+         "Singular": "goes up",
+         "Past": "went up",
+         "Present": "go up"
+      }
+   },
+   "strike": {"strike": {
+      "Singular": "strikes",
+      "Past": "struck",
+      "Present": "strike"
+   }},
+   "collide": {
+      "hit": {
+         "Singular": "hits",
+         "Past": "hit",
+         "Present": "hit"
+      },
+      "run_into": {
+         "Singular": "runs into",
+         "Past": "ran into",
+         "Present": "run into"
+      },
+      "strike": {
+         "Singular": "strikes",
+         "Past": "struck",
+         "Present": "strike"
+      },
+      "collide_with": {
+         "Singular": "collides with",
+         "Past": "collided with",
+         "Present": "collide with"
+      },
+      "impinge_on": {
+         "Singular": "impinges on",
+         "Past": "impinged on",
+         "Present": "impinge on"
+      }
+   },
+   "consume": {
+      "take": {
+         "Singular": "takes",
+         "Past": "took",
+         "Present": "take"
+      },
+      "take_in": {
+         "Singular": "takes in",
+         "Past": "took in",
+         "Present": "take in"
+      },
+      "have": {
+         "Singular": "has",
+         "Past": "had",
+         "Present": "have"
+      },
+      "consume": {
+         "Singular": "consumes",
+         "Past": "consumed",
+         "Present": "consume"
+      },
+      "ingest": {
+         "Singular": "ingests",
+         "Past": "ingested",
+         "Present": "ingest"
+      }
+   },
+   "check": {
+      "canvas": {
+         "Singular": "canvas",
+         "Past": "canvas",
+         "Present": "canvas"
+      },
+      "study": {
+         "Singular": "studies",
+         "Past": "studied",
+         "Present": "study"
+      },
+      "examine": {
+         "Singular": "examines",
+         "Past": "examined",
+         "Present": "examine"
+      },
+      "analyze": {
+         "Singular": "analyzes",
+         "Past": "analyzed",
+         "Present": "analyze"
+      },
+      "analyse": {
+         "Singular": "analyses",
+         "Past": "analysed",
+         "Present": "analyse"
+      },
+      "canvass": {
+         "Singular": "canvasses",
+         "Past": "canvassed",
+         "Present": "canvass"
+      }
+   },
+   "drink": {
+      "imbibe": {
+         "Singular": "imbibes",
+         "Past": "imbibed",
+         "Present": "imbibe"
+      },
+      "drink": {
+         "Singular": "drinks",
+         "Past": "drank",
+         "Present": "drink"
+      }
+   },
+   "suffer": {
+      "suffer": {
+         "Singular": "suffers",
+         "Past": "suffered",
+         "Present": "suffer"
+      },
+      "get": {
+         "Singular": "gets",
+         "Past": "got",
+         "Present": "get"
+      },
+      "have": {
+         "Singular": "has",
+         "Past": "had",
+         "Present": "have"
+      },
+      "sustain": {
+         "Singular": "sustains",
+         "Past": "sustained",
+         "Present": "sustain"
+      }
+   },
+   "hit": {"hit": {
+      "Singular": "hits",
+      "Past": "hit",
+      "Present": "hit"
+   }},
+   "equip": {
+      "fit": {
+         "Singular": "fits",
+         "Past": "fitted",
+         "Present": "fit"
+      },
+      "outfit": {
+         "Singular": "outfits",
+         "Past": "outfitted",
+         "Present": "outfit"
+      },
+      "equip": {
+         "Singular": "equips",
+         "Past": "equipped",
+         "Present": "equip"
+      },
+      "fit_out": {
+         "Singular": "fits out",
+         "Past": "fitted out",
+         "Present": "fit out"
+      }
+   },
+   "throw": {
+      "cast": {
+         "Singular": "casts",
+         "Past": "cast",
+         "Present": "cast"
+      },
+      "hurl": {
+         "Singular": "hurls",
+         "Past": "hurled",
+         "Present": "hurl"
+      },
+      "hurtle": {
+         "Singular": "hurtles",
+         "Past": "hurtled",
+         "Present": "hurtle"
+      }
+   },
+   "thrust": {
+      "thrust": {
+         "Singular": "thrusts",
+         "Past": "thrust",
+         "Present": "thrust"
+      },
+      "pierce": {
+         "Singular": "pierces",
+         "Past": "pierced",
+         "Present": "pierce"
+      }
+   },
+   "shoot": {
+      "pip": {
+         "Singular": "pips",
+         "Past": "pipped",
+         "Present": "pip"
+      },
+      "shoot": {
+         "Singular": "shoots",
+         "Past": "shot",
+         "Present": "shoot"
+      }
+   },
+   "slash": {
+      "slash": {
+         "Singular": "slashes",
+         "Past": "slashed",
+         "Present": "slash"
+      },
+      "gash": {
+         "Singular": "gash",
+         "Past": "gashed",
+         "Present": "gash"
+      }
+   },
+   "smash": {"smash": {
+      "Singular": "smashes",
+      "Past": "smashed",
+      "Present": "smash"
+   }}
+}
